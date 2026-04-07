@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-galaxy-purple: #1a0b2e;
+  --color-neon-blue: #00f2ff;
+  --color-deep-purple: #2d004d;
+}
