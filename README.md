@@ -1,0 +1,1 @@
+Uma aplicação web moderna e intuitiva projetada para criar QR Codes totalmente personalizáveis. Diferente dos geradores comuns, este projeto foca na liberdade criativa, permitindo que o usuário ajuste não apenas o link, mas toda a identidade visual do código gerado.
